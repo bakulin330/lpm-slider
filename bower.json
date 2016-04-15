@@ -1,0 +1,7 @@
+{
+  "name": "lpm-slider",
+  "description": "LPmotor slider",
+  "main": [
+    "lpm-slider.js"
+  ]
+}
